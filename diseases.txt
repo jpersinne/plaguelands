@@ -1,0 +1,13 @@
+:::::
+
+Blinding Sickness
+Blindness, -1d4 Strength
+
+Bubonic Plague
+-1 APR, 1 Damage Per Round, Contagious
+
+Leprosy
+Slow, -2 AC, -2 Reflex
+
+Mindfire
+-2 Spell DCs, Barred From 2 Highest Level Spells
