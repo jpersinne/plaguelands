@@ -1,0 +1,88 @@
+MISCELLANEOUS
+
+Book = boo_
+Crafting Component = crc_
+Container = con_
+Dye = dye_
+Gem = gem_
+Grenadelike = grn_
+Healer's Kit = hlr_
+Key = key_
+Magic Rod = rod_
+Magic Wand = wnd_
+Miscellaneous = msc_
+Potion = pot_
+Scroll = scr_
+Thieves' Tools = tht_
+Trap Kit = trk_
+Wand = wnd_
+
+ARMOR
+
+Armor = arX_, where X is the base AC (e.g. ar0 for cloth, ar1 for padded)
+Large Shield = shl_
+Small Shield = shs_
+Tower Shield = sht_
+
+EQUIPMENT
+
+Amulet = aml_
+Arrow = aar_
+Belt = blt_
+Bolt = abo_
+Boots = bts_
+Bracer = brc_
+Bullet = abu_
+Cloak = clk_
+Creature Item (Hide) = prp_
+Gauntlet = gnt_
+Helmet = hlm_
+Ring = rng_
+Torch = trc_
+
+Scroll
+
+WEAPONS
+
+Bastard Sword = wbs_
+Battle Axe = wba_
+Club = wcl_
+Creature Weapon = wcw_
+Dagger = wdg_
+Dart = wdr_
+Dire Mace = wdm_
+Double Axe = wda_
+Dwarven Waraxe = wdw_
+Greataxe = wga_
+Greatsword = wgs_
+Halberd = whb_
+Handaxe = wha_
+Heavy Crossbow = whc_
+Heavy Flail = whf_
+Kama = wkm_
+Katana = wkt_
+Kukri = wkk_
+Lance = wln_
+Light Crossbow = wlc_
+Light Flail = wlf_
+Light Hammer = wlh_
+Longbow = wlb_
+Longsword = wls_
+Mace = wmc_
+Magic Staff = wmg_
+Morning Star = wms_
+Quarterstaff = wqs_
+Rapier = wrp_
+Scimitar = wsc_
+Scythe = wsy_
+Short Sword = wss_ 
+Shortbow = wsb_
+Shuriekn = wsh_
+Sickle = wsk_
+Sling = wsl_
+Spear = wsp_
+Throwing Axe = wta_
+Trident = wtr_
+Two-Bladed Sword = wtb_
+Warhammer = wwr_
+Whip = wwh_
