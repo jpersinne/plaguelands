@@ -79,8 +79,11 @@ stc_ - OnStoreClosed
 
 MISCELLANEOUS TAGS
 
+abl_ - A feat or ability.
 gen_ - Generic. Used for scripts that fit nowhere in particular.
+hit_ - Item on hit script.
 lib_ - A function library.
+spl_ - A spell.
 
 MODULE TAGS
 
