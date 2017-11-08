@@ -1,0 +1,109 @@
+Use hungarian notation for all variable names:
+* bVar = boolen
+* nVar = int
+* fVar = float
+* sVar = string
+* oVar = object
+* lVar = location
+* vVar = vector
+
+Function names in upper camel case (e.g. MyFunction)
+
+Structs in lower camel case (e.g. myStruct)
+
+Constants in upper case (e.g. MY_CONSTANT)
+
+Local variables specific to a library namespaced with '<libraryid>." e.g., a spawn library that sets a respawn timer variable on a trigger may call the variable 'Spawn.RespawnTimer'.
+
+All script names should have a three letter prefix, i.e. 'xxx_' determined by the script's function (see below). Please do not prefix script names with builder tag. We can track builders via the git repo.
+
+AREA TAGS
+
+ent_ - OnEnter
+ext_ - OnExit
+hrt_ - OnHeartbeat
+usr_ - OnUserDefined
+
+CONVERSATION TAGS
+
+dsc_ - TextAppearsWhen (i.e. 'Dialogue Starting Condition')
+dat_ - ActionsTaken (i.e. 'Dialogue Actions Taken')
+
+CREATURE TAGS
+
+blk_ - OnBlocked
+cmb_ - OnCombatRoundEnd
+cnv_ - OnConversation
+dmg_ - OnDamaged
+dth_ - OnDeath
+dst_ - OnDisturbed
+hrt_ - OnHeartbeat
+per_ - OnPerception
+atk_ - OnPhysticalAttacked
+rst_ - OnRested
+spn_ - OnSpawn
+cst_ - OnSpellCastAt
+usr_ - OnUserDefined
+
+DOOR TAGS
+
+trn_ - OnAreaTransitionClock
+cls_ - OnClose
+dmg_ - OnDamaged
+dth_ - OnDeath
+fto_ - OnFailToOpen
+hrt_ - OnHeartbeat
+lck_ - OnLock
+atk_ - OnPhysicalAttacked
+opn_ - OnOpen
+cst_ - OnSpellCastAt
+unl_ - OnUnLock
+usr_ - OnUserDefined
+
+ENCOUNTER TAGS*
+
+(* Don't ever use an encounter trigger unless you have a very, very good reason. We have our own spawn system.)
+
+ent_ - OnEnter
+exh_ - OnExhausted
+ext_ - OnExit
+hrt_ - OnHeartbeat
+usr_ - OnUserDefined
+
+MERCHANT TAGS
+
+sto_ - OnOpenStore
+stc_ - OnStoreClosed
+
+MISCELLANEOUS TAGS
+
+gen_ - Generic. Used for scripts that fit nowhere in particular.
+lib_ - A function library.
+
+MODULE TAGS
+
+mod_ - Core module script.
+
+PLACEABLE TAGS
+
+clk_ - OnClick
+cls_ - OnClose
+dmg_ - OnDamaged
+dth_ - OnDeath
+hrt_ - OnHeartbeat
+dst_ - OnDisturbed
+lck_ - OnLock
+atk_ - OnPhysicalAttacked
+opn_ - OnOpened
+cst_ - OnSpellCastAt
+unl_ - OnUnlock
+use_ - OnUsed
+usr_ - OnUserDefined
+
+TRIGGER TAGS
+
+clk_ - OnClick
+ent_ - OnEnter
+ext_ - OnExit
+hrt_ - OnHeartbeat
+usr_ - OnUserDefined
