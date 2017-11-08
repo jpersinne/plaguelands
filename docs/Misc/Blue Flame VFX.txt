@@ -1,0 +1,16 @@
+760, blue bigby's
+763, freezing sphere (blue explosion with white particles, icy sound though!)
+765, chill shield (looks like a blue elemental shield)
+767 (shadowy form)
+821, blue flame incinerate
+833 (blue fireball)
+901 (like shield, but blue motes upward)
+1158, blue impact scorch
+1531 (blue firestorm)
+1546 (cone of cold, silent)
+1633 (charge up, blue)
+1641 (blue pw:s)
+1665 (blue implosion)
+1765 (dbf sparks, blue)
+1810 (cold gas explosion)
+1931 (destruction, blue)
