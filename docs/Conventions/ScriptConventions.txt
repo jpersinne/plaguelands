@@ -9,6 +9,8 @@ Use hungarian notation for all variable names:
 
 Function names in upper camel case (e.g. MyFunction)
 
+Private function (i.e. functions not intended to be called except by the library itself) names prepended with an underscore (e.g. _MyFunction)
+
 Structs in upper camel case (e.g. MyStruct)
 
 Variables within a struct lower camel case (e.g. MyStruct.myVariable)
