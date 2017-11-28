@@ -1,0 +1,12 @@
+2DA V2.0                                                    
+                                                            
+           NAME       BASERESREF     STRREF   DESCRIPTION
+0          Bear       ac_bear        12382    12381
+1          Crocodile  ac_crocodile   16777430 16777431
+2          Scorpion   ac_scorpion    16777432 16777433
+3          Snake      ac_snake       16777428 16777429
+4          Spider     ac_spider      1573     5993
+5          Turtle     ac_turtle      16777426 16777427
+6          Hawk       ac_hawk        5989     5990
+7          Panther    ac_panther     5991     5992
+8          Wolf       ac_wolf        1578     5929a
